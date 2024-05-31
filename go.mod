@@ -1,4 +1,4 @@
-module github.com/nekowawolf/cobapakcage
+module github.com/nekowawolf/pakcage
 
 go 1.21.3
 
