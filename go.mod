@@ -1,4 +1,4 @@
-module github.com/indrariksa/cobapakcage
+module github.com/nekowawolf/cobapakcage
 
 go 1.21.3
 
